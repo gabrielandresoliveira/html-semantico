@@ -43,3 +43,4 @@ Fruta | Doces
 Banana | Chocolate
 Abacaxi | Bala Juquinha
 Melão | Esticadinho
+Abacate| Brigadeiro
