@@ -44,3 +44,4 @@ Banana | Chocolate
 Abacaxi | Bala Juquinha
 Melão | Esticadinho
 Abacate| Brigadeiro
+Uva | Churros
